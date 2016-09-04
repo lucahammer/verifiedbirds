@@ -30,7 +30,7 @@
       "minEdgeSize": 0.2,
       "maxNodeSize": 5,
       "maxEdgeSize": 0.5,
-      "minNodeSize": 1
+      "minNodeSize": 0.1
     },
     "drawingProperties": {
       "labelThreshold": 4,
