@@ -4,13 +4,13 @@
   "data": "data.json",
   "logo": {
     "text": "Luca Hammer",
-    "file": "",
-    "link": "https://lucahammer.github.io/verifiedtwitter/"
+    "file": "https://cdn-images-1.medium.com/max/1200/1*94sygeEI6yeCFKgN_L1LDg.png",
+    "link": "https://medium.com/@Luca/analyzing-205-718-verified-twitter-users-cf0811781ac8#.jra6r84he"
   },
   "text": {
     "title": "All Verified Twitter Accounts",
-    "more": "https://medium.com/@Luca/cf0811781ac8",
-    "intro": "https://medium.com/@Luca/cf0811781ac8"
+    "more": "https://medium.com/@Luca/analyzing-205-718-verified-twitter-users-cf0811781ac8#.jra6r84he",
+    "intro": "https://medium.com/@Luca/analyzing-205-718-verified-twitter-users-cf0811781ac8#.jra6r84he"
   },
   "legend": {
     "edgeLabel": "Following",
