@@ -5,7 +5,7 @@
   "logo": {
     "text": "Luca Hammer",
     "file": "",
-    "link": ""
+    "link": "https://lucahammer.github.io/verifiedtwitter/"
   },
   "text": {
     "title": "All Verified Twitter Accounts",
@@ -30,7 +30,7 @@
       "minEdgeSize": 0.2,
       "maxNodeSize": 7,
       "maxEdgeSize": 0.5,
-      "minNodeSize": 1
+      "minNodeSize": 5
     },
     "drawingProperties": {
       "labelThreshold": 10,
