@@ -226,6 +226,10 @@ background-repeat: no-repeat;
 margin-bottom:20px;
 }
 
+#maintitle img {
+max-width: 208px;
+}
+
 #maintitle h1 {
 display: none;
 }
