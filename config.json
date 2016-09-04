@@ -1,0 +1,52 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Luca Hammer",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "All Verified Twitter Accounts",
+    "more": "https://medium.com/@Luca/cf0811781ac8",
+    "intro": "https://medium.com/@Luca/cf0811781ac8"
+  },
+  "legend": {
+    "edgeLabel": "Following",
+    "colorLabel": "Group",
+    "nodeLabel": "Verified Account"
+  },
+  "features": {
+    "search": true,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}
